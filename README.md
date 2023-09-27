@@ -1,14 +1,8 @@
-# Expo Router Example
+# React Native
+Job portal where you can search job in mobile application both android and ios.
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+<img src="./react.jpg"/>
+# How to run this code
+To run the code in your own mobile, you have to install expo go for android or camera app for ios. In your terminal run yarn expo and then scan the QR code expo go or camrea app.
 
-## 🚀 How to use
 
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
